@@ -1,2 +1,3 @@
-# OlaMundo
- repository versionado
+# Olá Mundo
+ primeiro repositorio versionado do git
+ 
